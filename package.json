@@ -1,0 +1,23 @@
+{
+  "name": "livromais-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Página de apresentação do PFC LIVRO+ (UMC) feita em React",
+  "author": "Felipe Lima Torres",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.9.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.0"
+  }
+}
